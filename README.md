@@ -1,4 +1,4 @@
-## Assignement 1 - Summary 
+## Oxford Flower DataSet Classification using Keras API
 
 ### Preprocessing and preparing training & testing sets
 * Preprocessing is performed on the flowers dataset so that it can be fed into the model.
@@ -34,4 +34,4 @@
 __Note__ : I have used Ubuntu 16.04 as the base image for our docker image.
 
 **DockerHub repo link** : https://hub.docker.com/repository/docker/afrozchakure/flowers
-
+**Link to DataSet** : http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
