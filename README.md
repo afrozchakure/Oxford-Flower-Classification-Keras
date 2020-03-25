@@ -33,5 +33,5 @@
 
 __Note__ : I have used Ubuntu 16.04 as the base image for our docker image.
 
-**DockerHub repo link** : https://hub.docker.com/repository/docker/afrozchakure/flowers
+**DockerHub repo link** : https://hub.docker.com/repository/docker/afrozchakure/flowers  
 **Link to DataSet** : http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
